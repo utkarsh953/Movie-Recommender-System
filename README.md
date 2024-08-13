@@ -4,4 +4,4 @@ Movie Recommendation System
 
 ## Description
 
-A website to recommend movie to users based on the content
+A system to recommend movies to users based on the content
